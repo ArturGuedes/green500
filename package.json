@@ -1,0 +1,42 @@
+{
+  "name": "green500",
+  "displayName": "green500",
+  "description": "Get the experience of development in the Sem Processo style",
+  "version": "0.0.1",
+  "publisher": "ArturGuedx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArturGuedes"
+  },
+  "author": {
+    "name": "Artur Guedes",
+    "email": "arturguedx@gmail.com"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#212121",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "tags": [
+    "500",
+    "dark",
+    "green",
+    "lawtech",
+    "Sem Processo"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "green500",
+        "uiTheme": "vs-dark",
+        "path": "./themes/green500-color-theme.json"
+      }
+    ]
+  }
+}
