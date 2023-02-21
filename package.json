@@ -1,16 +1,16 @@
 {
   "name": "green500",
   "displayName": "green500",
-  "description": "Get the experience of development in the Sem Processo style",
-  "version": "0.0.3",
+  "description": "The revolution of your code with a dark, green and modern theme",
+  "version": "0.0.4",
   "publisher": "ArturGuedx",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArturGuedes"
+    "url": "https://github.com/ArturGuedes/green500"
   },
   "author": {
     "name": "Artur Guedes",
-    "email": "arturguedx@gmail.com"
+    "email": "arturguedx+github@gmail.com"
   },
   "icon": "icon.png",
   "galleryBanner": {
@@ -29,6 +29,15 @@
     "green",
     "lawtech",
     "Sem Processo"
+  ],
+  "keywords": [
+    "dark",
+    "green",
+    "modern",
+    "lawtech",
+    "Sem Processo",
+    "theme",
+    "color-theme"
   ],
   "contributes": {
     "themes": [
