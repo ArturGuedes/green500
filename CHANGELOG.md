@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.0.5] - 2023-02-21
+### Changed
+
+- Changed package keywords
+- Minify README to marketplace
+
 ## [0.0.4] - 2023-02-21
 ### Changed
 
